@@ -16,6 +16,8 @@
     <img aling= "center" alt= "C++" src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDragobilll&layout=compact)
+
 ## ✨Sobre mim✨
 
 Atualmente estou no segundo semestre da faculdade de Analise e Desenvolvimento de Sistemas e querendo crescer nessa área, sou apaixonado por tecnologia e estou aprendendo muito ainda sobre a tecnologia, quero me aprofundar na programação para que possa crescer profissionalmente e conquistar o sonho de desenvolver programas e principalmente jogos, como sou praticamente iniciante estou aprendendo um pouco mais a cada dia, então espero que gostem e me acompanhe nessa jornada de crescimento de minhas conquistas!!!
