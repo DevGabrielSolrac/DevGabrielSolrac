@@ -23,18 +23,7 @@
 Atualmente estou no segundo semestre da faculdade de Analise e Desenvolvimento de Sistemas e querendo crescer nessa área, sou apaixonado por tecnologia e estou aprendendo muito ainda sobre a tecnologia, quero me aprofundar na programação para que possa crescer profissionalmente e conquistar o sonho de desenvolver programas e principalmente jogos, como sou praticamente iniciante estou aprendendo um pouco mais a cada dia, então espero que gostem e me acompanhe nessa jornada de crescimento de minhas conquistas!!!
 
 ## ✨Alguns de meus trabalhos✨
-
-[**Meu primeiro projeto em HTML, CSS e JS com os irmãos DevEmDobro - Pokedex](https://devdragobilll.github.io/projeto-pokedex/)
-<div>
-    <img aling="center" alt="Pokedex" src="https://images2.imgbox.com/1d/c0/t3utyOBm_o.png">
-</div>
-
-[**Meu segundo projeto em HTML, CSS e JS com os irmãos DevEmDobro - One Piece](https://devdragobilll.github.io/Projeto-One-Piece/)
-<div>
-    <img aling="center" alt="one piece" src="https://images2.imgbox.com/d6/5f/dhPGo73H_o.png">
-</div>
-
-[**Meu terceiro projeto pessoal que eu fiz para a minha igreja em HTML, CSS e JS  - Timer para o tempo de culto!](https://devdragobilll.github.io/FrutificarTimer/)
+[**Meu primeiro projeto pessoal para a minha igreja em HTML, CSS e JS  - Timer para o tempo de culto!](https://devdragobilll.github.io/FrutificarTimer/)
 <div>
     <img aling="center" alt="Frutificar" src="https://images2.imgbox.com/1b/f2/oBPW3Bio_o.png">
 </div>
