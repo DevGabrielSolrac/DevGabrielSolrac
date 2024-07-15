@@ -1,4 +1,4 @@
-### Olá! Como você está? Eu sou o Gabriel Carlos conhecido como Dragobilll👋
+### Olá! Como você está? Eu sou o Gabriel Carlos, tenho 27 anos e este é meu portfólio!! 👋
 
 #### ✨Contato✨
 
@@ -20,7 +20,7 @@
 
 ## ✨Sobre mim✨
 
-Atualmente estou no segundo semestre da faculdade de Analise e Desenvolvimento de Sistemas e querendo crescer nessa área, sou apaixonado por tecnologia e estou aprendendo muito ainda sobre a tecnologia, quero me aprofundar na programação para que possa crescer profissionalmente e conquistar o sonho de desenvolver programas e principalmente jogos, como sou praticamente iniciante estou aprendendo um pouco mais a cada dia, então espero que gostem e me acompanhe nessa jornada de crescimento de minhas conquistas!!!
+Atualmente estou no Terceiro semestre da faculdade de Analise e Desenvolvimento de Sistemas e querendo crescer nessa área, sou apaixonado por tecnologia e estou aprendendo muito ainda sobre a tecnologia, quero me aprofundar na programação para que possa crescer profissionalmente e conquistar o sonho de desenvolver programas e principalmente jogos, como sou praticamente iniciante estou aprendendo um pouco mais a cada dia, então espero que gostem e me acompanhe nessa jornada de crescimento de minhas conquistas!!!
 
 ## ✨Alguns de meus trabalhos✨
 [**Meu primeiro projeto pessoal para a minha igreja em HTML, CSS e JS  - Timer para o tempo de culto!](https://devdragobilll.github.io/FrutificarTimer/)
