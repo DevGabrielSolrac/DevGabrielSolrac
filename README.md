@@ -23,7 +23,7 @@
 Atualmente estou no Terceiro semestre da faculdade de Analise e Desenvolvimento de Sistemas e querendo crescer nessa área, sou apaixonado por tecnologia e estou aprendendo muito ainda sobre a tecnologia, quero me aprofundar na programação para que possa crescer profissionalmente e conquistar o sonho de desenvolver programas e principalmente jogos, como sou praticamente iniciante estou aprendendo um pouco mais a cada dia, então espero que gostem e me acompanhe nessa jornada de crescimento de minhas conquistas!!!
 
 ## ✨Alguns de meus trabalhos✨
-[**Meu primeiro projeto pessoal para a minha igreja em HTML, CSS e JS  - Timer para o tempo de culto!](https://devdragobilll.github.io/FrutificarTimer/)
+[**Meu primeiro projeto pessoal para a minha igreja em HTML, CSS e JS  - Timer para o tempo de culto!](https://devgabrielsolrac.github.io/FrutificarTimer/)
 <div>
     <img aling="center" alt="Frutificar" src="https://images2.imgbox.com/1b/f2/oBPW3Bio_o.png">
 </div>
