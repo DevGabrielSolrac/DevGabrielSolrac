@@ -5,7 +5,7 @@
 [![Github](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511943027402)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-carlos-4a51262a7/)
 
-![DevDragobilll GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGabrielSolrac&show_icons=true&theme=dracula)
+![DevGabrielSolrac GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGabrielSolrac&show_icons=true&theme=dracula)
 
 ### ✨Tecnologias que utilizo no meu dia a dia✨
 <div style="display: inline_block"><br/>
@@ -13,7 +13,6 @@
     <img aling= "center" alt= "CSS3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img aling= "center" alt= "JS" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img aling= "center" alt= "Python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img aling= "center" alt= "C++" src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielSolrac&layout=compact)
@@ -25,6 +24,11 @@ Atualmente estou no Terceiro semestre da faculdade de Analise e Desenvolvimento 
 ## ✨Alguns de meus trabalhos✨
 [**Meu primeiro projeto pessoal para a minha igreja em HTML, CSS e JS  - Timer para o tempo de culto!](https://devgabrielsolrac.github.io/FrutificarTimer/)
 <div>
-    <img aling="center" alt="Frutificar" src="https://images2.imgbox.com/1b/f2/oBPW3Bio_o.png">
+    Foram acresentadas atualizações como apresentação de mensagens importantes e alertas sobre o tempo.
+    <img aling="center" alt="Frutificar" src="https://thumbs2.imgbox.com/ed/30/F5Ljoh4e_t.png">
 </div>
 
+[**Meu Segundo projeto pessoal em HTML, CSS e JS - Slides sobre a mitologia nórdica.](https://devgabrielsolrac.github.io/MitologiaNordica/)
+<div>
+    <img align="center" alt="MitologiaNordica" src="https://thumbs2.imgbox.com/9a/03/dyXg5w3L_t.png">
+</div>
