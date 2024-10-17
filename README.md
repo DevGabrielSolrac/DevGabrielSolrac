@@ -32,3 +32,7 @@ Atualmente estou no Terceiro semestre da faculdade de Analise e Desenvolvimento 
 <div>
     <img align="center" alt="MitologiaNordica" src="https://thumbs2.imgbox.com/9a/03/dyXg5w3L_t.png">
 </div>
+[**Meu Terceiro projeto da aula semanal DevEmDobro em HTML, CSS e JS - Cards de pokedevs.](https://devgabrielsolrac.github.io/Pokedevs/)
+<div>
+    <img align="center" alt="CardsPokeDevs" src="https://thumbs2.imgbox.com/9b/08/HP3UxEnh_t.png">
+</div>
