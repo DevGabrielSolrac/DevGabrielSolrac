@@ -12,14 +12,13 @@
     <img aling= "center" alt= "HTML5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img aling= "center" alt= "CSS3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img aling= "center" alt= "JS" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img aling= "center" alt= "Python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielSolrac&layout=compact)
 
 ## ✨Sobre mim✨
 
-Atualmente estou no Terceiro semestre da faculdade de Analise e Desenvolvimento de Sistemas e querendo crescer nessa área, sou apaixonado por tecnologia e estou aprendendo muito ainda sobre a tecnologia, quero me aprofundar na programação para que possa crescer profissionalmente e conquistar o sonho de desenvolver programas e principalmente jogos, como sou praticamente iniciante estou aprendendo um pouco mais a cada dia, então espero que gostem e me acompanhe nessa jornada de crescimento de minhas conquistas!!!
+Atualmente estou no quarto semestre da faculdade de Analise e Desenvolvimento de Sistemas e estou querendo crescer nessa área, sou apaixonado por tecnologia e estou aprendendo muito ainda sobre a tecnologia, estou me aprofundando na programação para eu que possa crescer profissionalmente, como ainda sou iniciante nesta área estou querendo aprender ainda mais a cada dia, espero que gostem e me acompanhe nessa jornada de crescimento em minhas conquistas!!!
 
 ## ✨Alguns de meus trabalhos✨
 [**Meu primeiro projeto pessoal para a minha igreja em HTML, CSS e JS  - Timer para o tempo de culto!](https://devgabrielsolrac.github.io/FrutificarTimer/)
