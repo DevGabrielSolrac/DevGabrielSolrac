@@ -1,4 +1,4 @@
-### Olá! Como você está? Eu sou o Gabriel Carlos, tenho 27 anos e este é meu portfólio!! 👋
+### Olá! Como você está? Eu sou o Gabriel Carlos, tenho 28 anos estou cursando o último semestre de analise e desenvolvimento de sistemas e na busca do meu primeiro emprego ou estagio na área. Este é meu portfólio!! 👋
 
 #### ✨Contato✨
 
