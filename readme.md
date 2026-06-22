@@ -16,9 +16,7 @@
 
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevGabrielSolrac&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielSolrac&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevGabrielSolrac&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielSolrac&layout=compact&theme=dracula)
 
 ---
 
@@ -60,8 +58,11 @@ Sistema desenvolvido para auxiliar no controle de tempo durante cultos e eventos
 - Alertas automáticos
 - Mensagens personalizadas
 - Interface intuitiva
-🔗 **Repositório:**  
+  
+🔗 **Repositório:**
+
 https://github.com/DevGabrielSolrac/FrutificarTimer
+
 ---
 
 ### 🧮 Calculadora Web
@@ -75,7 +76,9 @@ Projeto criado para praticar lógica de programação, manipulação do DOM e ev
 - Tratamento de erros
 
 🔗 **Repositório:**  
+
 https://github.com/DevGabrielSolrac/CalculadoraWeb
+
 ---
 ## 🎯 Objetivos
 
