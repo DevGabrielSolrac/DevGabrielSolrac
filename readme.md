@@ -41,7 +41,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira na área de Tecnologia da Informação.
+Sou um profissional de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira na área de Tecnologia da Informação.
 
 Possuo experiência profissional com atendimento ao cliente, suporte operacional, emissão de NF-e e utilização de sistemas ERP, desenvolvendo habilidades como comunicação, resolução de problemas, organização e aprendizado rápido.
 
