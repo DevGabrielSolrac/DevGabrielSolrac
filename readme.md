@@ -74,6 +74,24 @@ Projeto criado para praticar lógica de programação, manipulação do DOM e ev
 https://github.com/DevGabrielSolrac/CalculadoraWeb
 
 ---
+### 🎮 Pong pong
+
+Este projeto foi criado com o objetivo de colocar em prática conceitos fundamentais da criação de jogos,como movimentação, colisões, pontuação, lógica de jogo e organização de projetos utilizando GML
+
+#### Funcionalidades:
+- Movimentação dos jogadores;
+- Controle por teclado;
+- Física básica da bola;
+- Sistema de colisões;
+- Contagem de pontos;
+- Reinício da partida após pontuação;
+- Organização de objetos, sprites e salas no GameMaker.
+
+🔗 **Repositório:**  
+
+https://github.com/DevGabrielSolrac/pong_noneClass
+
+---
 ## 🎯 Objetivos
 
 - Conquistar minha primeira oportunidade na área de TI.
