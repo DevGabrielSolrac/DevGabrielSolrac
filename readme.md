@@ -76,7 +76,7 @@ https://github.com/DevGabrielSolrac/CalculadoraWeb
 ---
 ### 🎮 Pong pong
 
-Este projeto foi criado com o objetivo de colocar em prática conceitos fundamentais da criação de jogos,como movimentação, colisões, pontuação, lógica de jogo e organização de projetos utilizando GML
+Este projeto foi criado com o objetivo de colocar em prática conceitos fundamentais da criação de jogos,como movimentação, colisões, pontuação, lógica de jogo e organização de projetos utilizando GML.
 
 #### Funcionalidades:
 - Movimentação dos jogadores;
